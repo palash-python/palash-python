@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palash-python
-- 👀 I’m interested in programming, mathematics and physics
-- 🌱 I’m currently learning PYTHON,C#,html.. everything about computer
+- 👀 I’m interested in programming, mathematics, physics and astrophysics. I am doing research in Astrophysics.
+- 🌱 I’m trying to learn machine learning and working on PYTHON. 
 - 💞️ I’m looking to collaborate on PYTHON Project/Data science/advanced algorithms
 - 📫 How to reach me? via palash.nandi10@gmail.com
 
